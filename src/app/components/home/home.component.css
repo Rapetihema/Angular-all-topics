@@ -1,0 +1,82 @@
+ /* normal method start */
+ .a{
+ background-color: black;
+ color: white;
+ text-align: center;}          
+/* normal methiod end */
+
+/* interpolation method start */
+ h1{
+ color: red;
+ background-color: darkturquoise;
+ text-align: center;
+ }
+/* interpolation method end */
+ 
+
+/* one way class binding start */
+ .devil{ 
+ background-color: brown;
+ color: white;
+ text-align: center; 
+ } 
+/*one way class binding end */
+
+
+/* two way class binding start */
+ .hema{
+    background-color: rgb(61, 7, 111);
+
+ }
+ .rapeti{
+  color: antiquewhite; 
+  text-align: center; 
+
+ }
+/* two way class binding start  */
+
+
+/* two way event binding start */
+ button{
+ background-color: brown;
+ color: aliceblue;
+ border-style: double;
+ border-color: black;
+ font-size: large; 
+ }
+/* two way event binding end */
+ 
+
+/* this is one way binding interpolation start */
+.swathi{
+   background-color: rgb(61, 7, 111);
+
+ }
+ .kim{
+  color: antiquewhite; 
+  text-align: center; 
+
+ }
+/* this is one way binding interpolation end */
+
+h2{
+
+text-align: center;
+}
+
+
+/* Nested ngFor object  method start  */
+.b{
+
+background-color: darkgreen;
+color: bisque;
+text-align: center;
+
+}
+.c{
+
+background-color: blue;
+color: aliceblue;
+text-align: center;
+}
+/* Nested ngFor object  method end  */

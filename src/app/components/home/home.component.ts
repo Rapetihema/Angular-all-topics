@@ -98,15 +98,13 @@ height:'50px',
    age:"23",
    place:"chodavaram",}
 
-
-
- 
 ]
 
-
-
-
 // nested ngFor object method end
+
+// pipe concept
+
+potti="pipe concept"
 
 }
 
